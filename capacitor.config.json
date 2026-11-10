@@ -1,0 +1,11 @@
+{
+  "appId": "com.habitflow.app",
+  "appName": "HabitFlow",
+  "webDir": "www",
+  "backgroundColor": "#0b0b12",
+  "android": { "backgroundColor": "#0b0b12" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_icon", "iconColor": "#D62976" },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0b0b12", "overlaysWebView": false }
+  }
+}
